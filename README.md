@@ -2,7 +2,6 @@
 
 A new Flutter app built with Google Maps that displays interesting places in the vicinity.
 
-How do I code this ? - https://youtu.be/x0QNPHYATj4
 
 ## Screenshots
 ![Screenshot_20220606-055028](https://user-images.githubusercontent.com/8137504/172486850-864ac272-6a0a-4775-add3-4c5271220c2c.png)
